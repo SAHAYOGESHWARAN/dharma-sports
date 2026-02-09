@@ -1,0 +1,7 @@
+{
+  "name": "RMV-CAS Sports Attendance System",
+  "description": "A comprehensive digital solution for Ramakrishna Mission Vidyalaya College of Arts and Science to manage and track sports attendance across students, coaches, and administrators.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
